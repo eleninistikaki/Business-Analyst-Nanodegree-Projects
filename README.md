@@ -20,4 +20,4 @@ And [here](https://www.udacity.com/course/business-analytics-nanodegree--nd098) 
 * Query a digital music store database
 * Build data dashboards
 
-![alt text](https://www.dropbox.com/s/nyzgyhdefh39owy/DFND.png?dl=0)
+![alt text](https://cdn1.imggmi.com/uploads/2018/9/26/6716bc22ba2752bfe750086c56ff6356-full.png)
