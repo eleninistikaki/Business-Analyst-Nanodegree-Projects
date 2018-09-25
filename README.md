@@ -13,3 +13,9 @@ And [here](https://www.udacity.com/course/business-analytics-nanodegree--nd098) 
 * SQL
 * Tableau
 
+## Projects
+
+* Interpret a data visualization
+* Analyze survey data
+* Query a digital music store database
+* Build data dashboards
