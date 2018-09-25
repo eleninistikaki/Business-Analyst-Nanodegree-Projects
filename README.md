@@ -19,3 +19,5 @@ And [here](https://www.udacity.com/course/business-analytics-nanodegree--nd098) 
 * Analyze survey data
 * Query a digital music store database
 * Build data dashboards
+
+![alt text](https://www.dropbox.com/s/nyzgyhdefh39owy/DFND.png?dl=0)
