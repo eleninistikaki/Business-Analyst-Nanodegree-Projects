@@ -20,4 +20,4 @@ And [here](https://www.udacity.com/course/business-analytics-nanodegree--nd098) 
 * Query a digital music store database
 * Build data dashboards
 
-![Udacity Business Analyst Nanodegree]()
+![Udacity Business Analyst Nanodegree](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/48b3bb9c-3169-49a4-922e-96c3eb07f155.svg)
