@@ -21,5 +21,5 @@ And [here](https://www.udacity.com/course/business-analytics-nanodegree--nd098) 
 * Build data dashboards
 
 <p align="center">
-  <img src="https://preview.ibb.co/kP3SWp/DFND.png">
+  <img width = "981" src="https://preview.ibb.co/kP3SWp/DFND.png">
 </p>
