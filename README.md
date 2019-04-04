@@ -7,7 +7,7 @@ This repository contains the projects I completed, to earn the Business Analyst 
 You can check my Nanodegree [here](https://graduation.udacity.com/nd100-ent).
 And [here](https://www.udacity.com/course/business-analytics-nanodegree--nd098) is Udacity's page about the Nanodegree.
 
-### Part 1: [Welcome to the Program]
+### Part 1: Welcome to the Program
 
 - Project: [Interpret a Data Visualization](https://github.com/eleninistikaki/Data-Foundations-Nanodegree/blob/master/Interpret%20a%20Data%20Visualization.pdf)
 
