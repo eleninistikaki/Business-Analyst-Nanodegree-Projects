@@ -1,4 +1,4 @@
-# Business Analyst Nanodegree Projects
+# Data Foundations Nanodegree Projects
 
 ## About
 
